@@ -1,5 +1,10 @@
-#main {
-    /* add CSS here */
+img {
+    cursor:pointer;
+    border:dotted;
+    border-color:#fa0473;
+    border-radius: 30px;
+    box-shadow: #00ff08;
+
 }
 .pet {
     /* add CSS here */
